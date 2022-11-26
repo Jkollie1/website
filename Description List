@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Description List</title>
+</head>
+<body>
+<h1>Description List</h1>
+HTML Terms
+
+
+
+<dl>
+<dt>HTML</dt><dd>Put your own description in your own words here.</dd>
+
+
+<dt>HTML element</dt><dd>Put your own descripyion in your words here</dd>
+
+
+<dt>HTML tag</dt><dd>Put your own description in your own words here</dd>
+
+
+<dt>angle braceket</dt><dd>Put your own description in your own words here</dd>
+
+
+<dt>HTML attribute</dt><dd>Put your own description in your own words here</dd>
+
+
+<dt>HTML comment</dt><dd>Put your own description in your own words here</dd>
+
+
+<dt>HTML object element</dt><dd>Put your own description in your own words here</dd>
+
+
+<dt>HTML special character</dt><dd>put your own description in your own words here</dd>
+
+ 
+</body>
+</html>
+
+
+
+<footer style="text-align: center;">
+<a href="http://validator.w3.org/check/referer">
+<strong> HTML </strong> Valid! </a>
+</footer>
