@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>mypod</title>
+<style type="text/css">
+    body{background-color: #eaf3ea:}
+    
+</style>
+</head>
+<body>
+    <br>
+    <img src="logo.png">
+    <h1>Welcome To Mypod</h1>
+    <p>welcome to the place to show off ipod, whever you might be.wanna join the fun? all you need is any ipod from the early classic ipod
+        to the latest ipod Nano, the smallest ipod shuffle to the largest ipod video, and a digital camera.Just take a snapshot of your ipod in your favorite location
+        and we will be glad to post it on mypod. So what are you wating for?
+    </p>
+    <h2>Seattle, Washington</h2>
+
+    <P>
+        Me and  my ipod in seattle! you can see the space Needle.
+        you can't see the 628 coffee shops.
+    </P>
+
+    <p>
+        <img src="ipod.jpeg">
+        <img src="ipod2.jpeg">
+        <img src="ipod3.jpeg">
+        <img srrc="ipod4.jpeg">
+    </p>
+
+    <h2>Birminghan, Egland</h2>
+
+    <p>
+        Here are some photos around birminghan. wee have obviously got some passionate Folks
+        over here who love their ipods. Check out the classic red birtish telephone box!
+    </p>
+    <p>
+        <img src="ipod5.jpeg">
+        <img src="ipod6.jpeg">
+    </p>
+</body>
+</html>
